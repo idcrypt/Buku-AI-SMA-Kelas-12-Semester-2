@@ -1,7 +1,11 @@
-# BUKU AI SD/MI Kelas 5 Semester 1: Belajar Logika, Coding Visual, Literasi Digital, dan AI
-Aolia Ikhwanudin
+# Buku AI SMA Kelas 12 Semester 2 AI untuk Masa Depanmu: Bangun Proyek, Kerja Tim, dan Simulasi Dunia Kerja
+
+Taufik Iqbal Ramdhani
+
 Onno W. Purbo
+
 Institut Teknologi Tangerang Selatan (ITTS)
+
 2025
 
 Lisensi & Catatan Karya
